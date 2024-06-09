@@ -1,14 +1,10 @@
 <template>
-	<v-app>
-		<NuxtLayout>
-			<NuxtPage />
-		</NuxtLayout>
-	</v-app>
+	<p>Games</p>
 </template>
-
 <script lang="ts" setup>
 
 </script>
 
 <style lang="scss" scoped>
+
 </style>
