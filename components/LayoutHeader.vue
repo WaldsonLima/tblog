@@ -11,7 +11,7 @@
                 to="/"
                 class="sm:!tw-hidden !tw-flex"
             >
-                <PhHouse size="32" />
+            <v-icon icon="mdi-home-outline" />
             </NuxtLink>
         </v-app-bar-title>
 
@@ -30,11 +30,6 @@
         </template>
     </v-app-bar>
 </template>
-
-<script lang="ts" setup>
-    import { PhHouse } from '@phosphor-icons/vue';
-
-</script>
 
 <style lang="scss" scoped>
     :deep() {
