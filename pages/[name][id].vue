@@ -54,7 +54,7 @@
         },
         {
             category: CardCategory.Movie,
-            text: "RECOMENDAÇÃO DE MÚSICA"
+            text: "RECOMENDAÇÃO DE FILME"
         }
     ]
 </script>
