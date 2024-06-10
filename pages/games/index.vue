@@ -1,5 +1,5 @@
 <template>
-	<main class="tw-max-w-[1080px] tw-mx-auto">
+	<main class="tw-max-w-[1080px] tw-mx-auto tw-text-center">
 		<p class="title">
 			Análises de Jogos.
 		</p>
