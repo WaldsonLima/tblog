@@ -54,7 +54,7 @@
 			seeAllLink: "/movies",
 			category: CardCategory.Movie
 		}
-	] 
+	];
 </script>
 
 <style lang="scss" scoped>
