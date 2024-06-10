@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@mdi/font": "^7.4.47",
-    "@phosphor-icons/vue": "2.0.9",
+    "@phosphor-icons/vue": "^2.0.9",
     "@pinia/nuxt": "^0.5.1",
     "eslint-plugin-jest": "^28.2.0",
     "happy-dom": "^13.6.2",
