@@ -1,2 +1,3 @@
 # tblog
+Tecnologias usadas: Vue.Js, Nuxt.Js, Vvuetify, Tailwind.
 Esse projeto ainda está em construção...
