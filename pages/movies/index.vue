@@ -1,10 +1,10 @@
 <template>
 	<main class="tw-max-w-[1080px] tw-mx-auto tw-text-center">
 		<p class="title">
-			Recomendação de Filmes.
+			Recomendação de Filmes
 		</p>
 		<p class="tw-text-xl lg:tw-text-[28px] tw-px-5 lg:tw-px-0 tw-font-normal tw-text-light-gray-text tw-text-center tw-mt-[20px] tw-mb-20">
-			Todos os filmes foram assistidos e são muito legais.
+			Todos os filmes foram assistidos e são muito legais
 		</p>
 	</main>
 	<section class="tw-bg-background-content tw-py-20">
