@@ -3,7 +3,7 @@
 		<p class="title">
 			Recomendação de Filmes
 		</p>
-		<p class="tw-text-xl lg:tw-text-[28px] tw-px-5 lg:tw-px-0 tw-font-normal tw-text-light-gray-text tw-text-center tw-mt-[20px] tw-mb-20">
+		<p class="tw-text-xl lg:tw-text-[28px] tw-leading-normal tw-px-5 lg:tw-px-0 tw-font-normal tw-text-light-gray-text tw-text-center tw-mt-[20px] tw-mb-20">
 			Todos os filmes foram assistidos e são muito legais
 		</p>
 	</main>

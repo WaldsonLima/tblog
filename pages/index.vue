@@ -3,7 +3,7 @@
 		<p class="title">
 			Esse é um site de blogs curtos, feitos com muito carinho.
 		</p>
-		<p class="tw-text-xl lg:tw-text-[28px] tw-px-5 lg:tw-px-0 tw-font-normal tw-text-light-gray-text tw-text-center tw-mt-[20px] tw-mb-20">
+		<p class="tw-text-xl lg:tw-text-[28px] tw-leading-normal tw-px-5 lg:tw-px-0 tw-font-normal tw-text-light-gray-text tw-text-center tw-mt-[20px] tw-mb-20">
 			Esse é um site usado como portfólio. Os créditos de todas as imagens vão estar na descrição de cada conteúdo.
 		</p>
 	</main>
