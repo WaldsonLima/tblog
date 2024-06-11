@@ -24,15 +24,17 @@
             class="tw-w-full tw-h-full tw-rounded-[10px]"
         >
     </div>
-    <div class="lg:tw-w-[680px] tw-w-[90%] tw-mx-auto tw-text-center tw-mb-[100px]">
+    <div class="lg:tw-w-[680px] tw-w-[90%] tw-mx-auto tw-mb-[100px]">
         <p class="tw-text-lg tw-font-normal tw-text-dark-gray-text tw-mb-10">{{ blog.textContent }}</p>
-        <NuxtLink
-            :to="blog.imgReference"
-            target="_blank"
-            class="tw-text-base tw-font-normal tw-text-title-yellow tw-underline"
-        >
-            Imagem original
-        </NuxtLink>
+        <div class="tw-text-center">
+            <NuxtLink
+                :to="blog.imgReference"
+                target="_blank"
+                class="tw-text-base tw-font-normal tw-text-title-yellow tw-underline"
+            >
+                Imagem original
+            </NuxtLink>
+        </div>
     </div>
 </template>
 
